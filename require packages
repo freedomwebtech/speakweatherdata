@@ -1,0 +1,2 @@
+pip3 install requests bs4 gtts
+sudo apt install mpg321
